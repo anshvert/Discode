@@ -66,7 +66,8 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://github.com/anshvert/Discode/blob/master/theme/assets/Discode.png">
+<img src="![image](https://user-images.githubusercontent.com/53685410/183630956-ce7e3a41-dc13-4802-b2c1-48f4b19aa4cf.png)
+">
 </td> 
 <td width="50%">
 <br>
