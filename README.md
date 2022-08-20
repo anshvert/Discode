@@ -5,7 +5,7 @@
 </p>
 
 ### Discode is an online educational platform to discuss and solve queries regaring programming issues
-### and promote the environment of peer programming among learners.
+### and promote the environment of peer programming among students.
 
   
 #### Cloning the repository
