@@ -7,6 +7,19 @@
 ### Discode is an online educational platform to discuss and solve queries regaring programming issues
 ### and promote the environment of peer programming among students.
 
+####  > It has a seperate space and community to discuss issues regarding any new feature or even a bug.
+
+####  > A simple signup is required and that's it . 
+####  > Now engage in discussion, contribute for the community or create your own group/thread for an entire new discussion on any topic.
+
+####  > The project helps users ( users could include students/employees or any person from any tech field) to clear out any issues or enhancing 
+#### their knowledge on any field.
+
+####  > The Project is mainly build on Django( A python backend framework). 
+####  > Django handles all the backend portion of the project which includes the User-model which saves all info about users which signup on the
+####  > app and it also provides features of login/ signup.
+
+####  > The UI portion is done on HTML/CSS/JS.
   
 #### Cloning the repository
 
