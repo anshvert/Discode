@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/53685410/183636996-2d9b1500-ea62-4302-af5d-e6021a89f2ef.png"
 </p>
 
-### Discode is an online educational platform to discuss and solve queries regaring programming issues
+### Discode is an online educational platform to discuss and solve queries regarding any programming issues
 ### and promote the environment of peer programming among students.
 
 ####  > It has a seperate space and community to discuss issues regarding any new feature or even a bug.
